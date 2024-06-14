@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "ChechuViajes";
+}
+
+<div>
+    <h1>Bienvenidos a ChechuViajes.</h1>
+    <p>Para hacer tu paquete toque aca abajo.</p>
+    <a href='@Url.Action("SelectPaquete")'>Crear Paquete</a>
+
+</div>
+
+@if(@ViewBag.destino != null){
+    <h1>Destinos:</h1>
+
+    @foreach (string destino in @ViewBag.Paquete.Keys)
+    {
+        <p>@destino</p>
+    }
+}

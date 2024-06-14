@@ -1,0 +1,42 @@
+
+<form method="" action='@Url.Action("GuardarPaquete")'>
+@foreach (string item in @ViewBag.Destino)
+{
+    <h3>@item</h3>
+}
+<br/>
+Destino:<input type="nunmber" name="Destino" min = 1 max = 10/> <br/>
+
+
+<h1>Hoteles:</h1>
+@for(int i = 0; i < @ViewBag.Hotel.Count; i++)
+{
+    <img src="~/img/@(ViewBag.Hotel[i])" width='18%'  height='auto' />
+}
+<br/>
+Hotel:<input type="nunmber" name="Hotel" min = 1 max = 10/> <br/>
+
+
+<h1>Excursiones:</h1>
+@for(int i = 0; i < @ViewBag.Excursion.Count; i++)
+{
+    <img src="~/img/@(ViewBag.Excursion[i])" width='18%'  height='auto' />
+}
+<br/>
+Excursiones:<input type="nunmber" name="Excursion" min = 1 max = 10/> <br/>
+
+
+<h1>Aereos:</h1>
+@for(int i = 0; i < @ViewBag.Aereo.Count; i++)
+{
+    <img src="~/img/@(ViewBag.Aereo[i])" width='18%'  height='auto' />
+}
+<br/>
+Aereo:<input type="nunmber" name="Aereo" min = 1 max = 10/> <br/>
+
+<br/>
+<input type='submit' />
+
+    
+</form>
+
