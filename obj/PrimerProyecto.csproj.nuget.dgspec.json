@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48044168\\Downloads\\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\\PrimerProyecto.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\TP04web_Kalik_Eulmesekian\\PrimerProyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48044168\\Downloads\\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\\PrimerProyecto.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\TP04web_Kalik_Eulmesekian\\PrimerProyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48044168\\Downloads\\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\\PrimerProyecto.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\TP04web_Kalik_Eulmesekian\\PrimerProyecto.csproj",
         "projectName": "PrimerProyecto",
-        "projectPath": "C:\\Users\\48044168\\Downloads\\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\\PrimerProyecto.csproj",
-        "packagesPath": "C:\\Users\\48044168\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48044168\\Downloads\\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\TP04web_Kalik_Eulmesekian\\PrimerProyecto.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\TP04web_Kalik_Eulmesekian\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\48044168\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

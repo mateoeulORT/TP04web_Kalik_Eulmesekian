@@ -141,3 +141,32 @@ C:\Users\48044168\Downloads\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\TP04-
 C:\Users\48044168\Downloads\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\obj\Debug\net8.0\PrimerProyecto.pdb
 C:\Users\48044168\Downloads\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\obj\Debug\net8.0\PrimerProyecto.genruntimeconfig.cache
 C:\Users\48044168\Downloads\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\TP04-PaquetesTuristicos_Kalik_Eulmesekian-main\obj\Debug\net8.0\ref\PrimerProyecto.dll
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\bin\Debug\net8.0\PrimerProyecto.staticwebassets.runtime.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\bin\Debug\net8.0\PrimerProyecto.exe
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\bin\Debug\net8.0\PrimerProyecto.deps.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\bin\Debug\net8.0\PrimerProyecto.runtimeconfig.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\bin\Debug\net8.0\PrimerProyecto.dll
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\bin\Debug\net8.0\PrimerProyecto.pdb
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\PrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\PrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\PrimerProyecto.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\PrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\PrimerProyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\PrimerProyecto.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\PrimerProyecto.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\PrimerProyecto.sourcelink.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\staticwebassets\msbuild.PrimerProyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\staticwebassets\msbuild.build.PrimerProyecto.props
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PrimerProyecto.props
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PrimerProyecto.props
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\scopedcss\bundle\PrimerProyecto.styles.css
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\PrimerProyecto.dll
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\refint\PrimerProyecto.dll
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\PrimerProyecto.pdb
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\PrimerProyecto.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP04web_Kalik_Eulmesekian\obj\Debug\net8.0\ref\PrimerProyecto.dll
