@@ -9,11 +9,20 @@
 
 </div>
 
-@if(@ViewBag.destino != null){
-    <h1>Destinos:</h1>
 
-    @foreach (string destino in @ViewBag.Paquete.Keys)
-    {
-        <p>@destino</p>
-    }
+
+@foreach (var item in @ViewBag.Paquete)
+{
+    <tr>
+        <td>@item.Key</td>
+        <br>
+            <td><img src="~/img/@item.Value.Hotel" width='18%' height='auto' /></td>
+        <br>
+            <td><img src="~/img/@item.Value.Aereo" width='18%' height='auto' /></td>
+        <br>
+            <td><img src="~/img/@item.Value.Excursion" width='18%' height='auto' /></td>
+        <br>
+    </tr>
 }
+
+

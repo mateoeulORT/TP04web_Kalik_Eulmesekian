@@ -32,9 +32,9 @@ public class HomeController : Controller
     {
         if (Destino > 0 && Destino <= 10 && Hotel > 0 && Hotel <= 10 && Excursion > 0 && Excursion <= 10 && Aereo > 0 && Aereo <= 10)
         {
-            Paquete paqueteNuevo = new Paquete (OrtWorld.ListaHoteles[Hotel], OrtWorld.ListaAereos[Aereo], OrtWorld.ListaExcursiones[Excursion]);
-            OrtWorld.IngresarPaquete(OrtWorld.ListaDestinos[Destino],paqueteNuevo);
-            return View("Index");
+            Paquete paqueteNuevo = new Paquete (OrtWorld.ListaHoteles[Hotel -1 ], OrtWorld.ListaAereos[Aereo -1], OrtWorld.ListaExcursiones[Excursion - 1]);
+            OrtWorld.IngresarPaquete(OrtWorld.ListaDestinos[Destino - 1],paqueteNuevo);
+            return RedirectToAction("Index");
         }
         else{
             return View("SelectPaquete");   
