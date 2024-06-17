@@ -21,3 +21,26 @@ footer {
   background-color: #C6B5B2;
   border-top: 1px solid #e9ecef;
 }
+
+
+img{
+  width: 18%;
+  height: auto;
+}
+
+
+h3{
+  float: left;
+  margin-right: 15%;
+
+}
+
+h1{
+  clear: both;
+  background-color: #FF8B75;
+}
+
+
+div{
+  clear: both;
+}

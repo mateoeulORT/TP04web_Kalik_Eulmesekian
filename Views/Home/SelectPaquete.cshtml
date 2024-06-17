@@ -1,12 +1,16 @@
 
 <form method="" action='@Url.Action("GuardarPaquete")'>
-    
+
+<h1>Destinos:</h1>
 @foreach (string item in @ViewBag.Destino)
 {
     <h3>@item</h3>
 }
 <br/>
-Destino:<input type="number" name="Destino" min = "1" max = "10"/> <br/>
+
+<div>
+    Destino:<input type="number" name="Destino" min = "1" max = "10"/> <br/>
+</div>
 
 
 <h1>Hoteles:</h1>
